@@ -140,6 +140,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
+- Order will be a Kentucky Derby style draft after a 3x random order
 - Snake format (1st to 12th then 12th to 1st). Veterans only rouns 1-25
 - Each day the draft will last from 9AM to 10 CDT with each team having 8 hour per pick.
 - Trading draft picks is allowed during the startup draft.
