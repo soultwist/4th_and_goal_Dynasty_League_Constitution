@@ -1,4 +1,4 @@
-#  4th and goal's Dynasty League Constitution #
+#  I Need Money Dynasty League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
@@ -34,8 +34,8 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Michael Morris__
-> alexisdad2004@gmail.com
+__Zach Pearson__
+> zdpearsongmail.com
 
 <br>
 
