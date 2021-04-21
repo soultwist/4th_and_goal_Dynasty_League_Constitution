@@ -74,7 +74,7 @@ __Zach Pearson__
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
-- The Entry Fee for the league is $25 per season. With one seasons required upfront. 
+- The Entry Fee for the league is $25 per season. With two seasons required upfront. 
 - Players must have already paid the one season payment before being permitted to draft.
 
 ### Yearly Dues ###
@@ -129,7 +129,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - FAAB dollars are tradeable
 - There is a one day waiting period for waivers to clear
 - Free agency locks a week after the championship ends, through the end of the rookie draft. 
-- Waivers clear Tuesday
+- Waivers clear Daily
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
@@ -141,7 +141,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## __Section VI - Startup Draft__ ##
 - Snake format (1st to 12th then 12th to 1st).
-- Each day the draft will last from 9AM to 1 am est with each team having 4 hour per pick.
+- Each day the draft will last from 9AM to 10 CDT with each team having 8 hour per pick.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 
