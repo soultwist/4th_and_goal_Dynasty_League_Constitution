@@ -104,7 +104,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 3 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 16 | No Limi
+   BE | 15 | No Limi
    IR | 4 | No Limit
 
 ### Offseason Rosters (Post-draft Rosters) ###
@@ -140,10 +140,11 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Snake format (1st to 12th then 12th to 1st).
+- Snake format (1st to 12th then 12th to 1st). Veterans only rouns 1-25
 - Each day the draft will last from 9AM to 10 CDT with each team having 8 hour per pick.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
+- Rounds 26-30 will allow both rookies and veterns
 
 <br><br>
 
@@ -157,10 +158,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 - An additional pick (2.13) will be awarded to the winner of the consolation bracket
 
 ### Rookie Draft Settings ###
-- There will be 4 rounds of the rookie draft.
+- There will be 5 rounds of the rookie draft.
 - The rookie draft will take place a week after the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 9AM to 1AM est with each team having 4 hours per pick.
+- Each day the draft will last from 9AM to 10 PM CDT with each team having 8 hours per pick.
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 - Rookie drafts will include all Free Agents and incoming rookies.
