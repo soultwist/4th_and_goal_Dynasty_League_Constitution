@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_soultwist_I_Need_Money_League_Constitution_1709229567650-pr-trigger-input-set
+  identifier: Build_soultwist_I_Need_Money_League_Constitution_1709229567650prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_soultwist_I_Need_Money_League_Constitution_1709229567650
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
