@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_soultwist_I_Need_Money_League_Constitution_1709229567650-push-trigger-input-set
+  identifier: Build_soultwist_I_Need_Money_League_Constitution_1709229567650pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_soultwist_I_Need_Money_League_Constitution_1709229567650
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
